@@ -1,2 +1,7 @@
 # vs code folder settings
+
 .vscode
+
+# arquivos compilados
+
+*/*.out
